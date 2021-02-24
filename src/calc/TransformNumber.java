@@ -39,7 +39,7 @@ public class TransformNumber {
             case 6: units = "VI"; break;
             case 7: units = "VII"; break;
             case 8: units = "VIII"; break;
-            case 9: units = "XI"; break;
+            case 9: units = "IX"; break;
         }
         return units;
     }
